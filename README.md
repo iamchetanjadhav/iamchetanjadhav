@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Gen
 
 ## 🚀 About Me
 
-- 👀 I’m deeply interested in **Generative AI**, **Machine Learning**, and **Python**
+- 👀 I’m deeply interested in **Generative AI**, **Python** and **Web Technologies**
 - 🌱 Currently learning the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 🤝 Looking to collaborate on real-world, impactful open-source projects
 - 📫 You can reach me via:
